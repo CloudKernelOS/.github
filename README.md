@@ -6,10 +6,13 @@ Based On The Moby Project
 
 ![Moby Project logo](https://github.com/moby/moby/blob/master/docs/static_files/moby-project-logo.png "The Moby Project")
 
-Moby is an open-source project created by Docker to enable and accelerate software containerization.
+[Moby](https://github.com/moby) is an open-source project created by Docker to enable and accelerate software containerization.
 
 It provides a "Lego set" of toolkit components, the framework for assembling them into custom container-based systems, and a place for all container enthusiasts and professionals to experiment and exchange ideas.
-Components include container build tools, a container registry, orchestration tools, a runtime and more, and these can be used as building blocks in conjunction with other tools and projects.
+
+Components include container build tools such as [buildkit](https://github.com/moby/buildkit), a container registry, orchestration tools like [swarmkit](https://github.com/moby/swarmkit), a [containerd](https://containerd.io/docs/)-based [Go runtime](https://pkg.go.dev/github.com/moby/containerd/runtime) and more, and these can be used as building blocks in conjunction with other tools and projects.
+
+![Moby Ecosystem](https://i.stack.imgur.com/EYvfL.jpg "How Moby fits into the Big Container Picture")
 
 ## Principles
 
