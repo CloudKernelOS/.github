@@ -1,8 +1,8 @@
 :construction:   :construction:   :construction: 
 
-:rotating_light: CloudKernel is about extreme simplification for RELIABILITY. :rotating_light:
+:rotating_light: CloudKernel is a push for extreme simplification for improving RELIABILITY. :rotating_light:
 
-The intent of our effort to ***INTRODUCE the notion of RELIABILITY ENGINEERING into the realm of computing*** involves things like developing the the most extremely lightweight, very most minimal baselayers which would comprise a [monitorable]((https://arxiv.org/search/?query=%22monitorability%22+%22operating+system%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)), reliably secure :closed_lock_with_key: realtime operating system for **highly reliable** :stethoscope: observeable edgeOS or use cases such as :alembic: HPC computing :test_tube: for which an important :thread: or set of threads completely dominate the :alembic: computing purposes :test_tube: of any use case for a container image.
+The general intention is about developing the the most extremely lightweight, very most minimal baselayers which would comprise a [monitorable]((https://arxiv.org/search/?query=%22monitorability%22+%22operating+system%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)), secure :closed_lock_with_key: realtime operating system for **highly reliable** :stethoscope: observeable edgeOS or use cases such as :alembic: HPC computing :test_tube: for which an important :thread: or set of threads completely dominate the :alembic: computing purposes :test_tube: of any use case for a container image.
 
 :construction:   :construction:   :construction: 
 
