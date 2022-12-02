@@ -12,7 +12,7 @@ It provides a "Lego set" of toolkit components, the framework for assembling the
 
 Components include container build tools such as [buildkit](https://github.com/moby/buildkit), a container registry, orchestration tools like [swarmkit](https://github.com/moby/swarmkit), a [containerd](https://containerd.io/docs/)-based [Go runtime](https://pkg.go.dev/github.com/moby/containerd/runtime) and more, and these can be used as building blocks in conjunction with other tools and projects.
 
-![Moby Ecosystem](https://i.stack.imgur.com/EYvfL.jpg "How Moby fits into the Big Container Picture")
+![Moby Ecosystem](https://i.stack.imgur.com/EYvfL.jpg "How Moby fits into the Bigger OpenContainers.ORG Initiative")
 
 ## Principles
 
