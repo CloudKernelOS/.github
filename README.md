@@ -10,7 +10,7 @@ Based On The Moby Project
 
 It provides a "Lego set" of toolkit components, the framework for assembling them into custom container-based systems, and a place for all container enthusiasts and professionals to experiment and exchange ideas.
 
-Components include container build tools such as [buildkit](https://github.com/moby/buildkit), a container registry, orchestration tools like [swarmkit](https://github.com/moby/swarmkit), a [containerd](https://containerd.io/docs/)-based [Go runtime](https://pkg.go.dev/github.com/moby/containerd/runtime) and more, and these can be used as building blocks in conjunction with other tools and projects.
+Components include container build tools such as [buildkit](https://github.com/moby/buildkit) which spawned others like buildah ... a standard container registry architecture ... orchestration tools like [swarmkit](https://github.com/moby/swarmkit)...[containerd](https://containerd.io/docs/)-based [Go runtime](https://pkg.go.dev/github.com/moby/containerd/runtime) and more, and these can be used as building blocks in conjunction with other tools and projects.
 
 ![Moby Ecosystem](https://i.stack.imgur.com/EYvfL.jpg "How Moby fits into the Bigger OpenContainers.ORG Initiative")
 
