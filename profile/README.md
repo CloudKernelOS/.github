@@ -1,5 +1,5 @@
 🐝:construction:  🐝 :construction: 🐝  :construction: 🐝 
 
-🐝: The architecture of CloudKernelOS is entirely about extreme simplification of the ultra-secure, ultra-minimalist PRIMARY container base layer to enable the more rapid evolution of continously improved reliability and performance.
+🐝: The architecture of CloudKernelOS is entirely about extreme simplification of the ultra-secure, ultra-minimalist PRIMARY container base layers to enable the more rapid, ephemeral evolution of observability and security. Monitoring first to drive continously improved reliability for monetized data flows.
 
 🐝:construction:  🐝 :construction: 🐝  :construction: 🐝 
